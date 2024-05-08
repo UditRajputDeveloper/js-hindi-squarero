@@ -1,0 +1,12 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/devcontainers-contrib/features/linode-cli:1": {},
+		"ghcr.io/devcontainers-contrib/features/node-asdf:0": {},
+		"ghcr.io/devcontainers-contrib/features/node-exporter:1": {},
+		"ghcr.io/devcontainers-contrib/features/ts-node:1": {},
+		"ghcr.io/r3dpoint/devcontainer-features/tailwindcss-standalone-cli:1": {},
+		"ghcr.io/schlich/devcontainer-features/node-exporter:1": {},
+		"ghcr.io/cirolosapio/devcontainers-features/alpine-node:0": {}
+	}
+}
